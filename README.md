@@ -1,4 +1,4 @@
 #  Preview de la pagina:
 
-![imagen del proyecto](./img/preview.jpg)
+![imagen del proyecto](./img/preview.png)
 
