@@ -6,5 +6,5 @@ setTimeout(()=>{saludo()},1500);
 function saludo(){
    nombre= prompt("Ingrese su nombre");
    cambiojs.innerText=nombre;
-   parafojs.innerText="Dios te bendigo hoy 😍";
+   parafojs.innerText="Dios te bendiga el dia de hoy 😍";
 }
