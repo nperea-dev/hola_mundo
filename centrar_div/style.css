@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 body {
+  margin: 20px;
   height: 100vh;
   background-color: cadetblue;
   display: flex;
@@ -14,7 +15,7 @@ body {
 main {
   height: 600px;
   width: 600px;
-  background-color: antiquewhite;
+  background-color: rgba(196, 129, 41, 0.897);
   display: flex;
   justify-content: center;
 align-items:center;
@@ -32,9 +33,9 @@ align-items:center;
 }
 
 .inner-container {
-  background-color: rgb(0, 255, 128);
+  background-color: rgb(92, 179, 135);
   padding: 20px;
-  border: 2px solid blue;
+  border: 2px solid #02E8C3;
   border-radius:10px;
   display:block;
   text-align:center;
